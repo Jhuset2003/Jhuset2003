@@ -46,4 +46,3 @@ func GetBio() Bio {
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </div> <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jhuset2003&show_icons=true&theme=tokyonight=true&locale=en&layout=compact" alt="jhuset2003" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhuset2003&show_icons=true&theme=tokyonight=true&locale=en&layout=compact" alt="jhuset2003" /></p>
