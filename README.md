@@ -19,7 +19,7 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Descripcion Rapida:":           "Soy un codificador arriegado y competitivo ,que le gusta resolver problemas y asumirlos",
+		"- ⚡ Descripcion Rapida:":           "Soy un codificador arriesgado y competitivo ,que le gusta resolver problemas y asumirlos",
 	Skills for the MERN stack (Personal goal)",
 		"- 💬 Prguntame Acerca De":           "React,Css,Js,Html y Python ",
 		"- 📫 Encuentrame como:":              "https://github.com/Jhuset2003",
